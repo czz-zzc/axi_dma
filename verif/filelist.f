@@ -1,0 +1,11 @@
+../rtl/src/apb2reg_if.v
+../rtl/src/dam_fsm.v
+../rtl/src/dma_axi2fifo.v
+../rtl/src/dma_core.v
+../rtl/src/dma_csr.v
+../rtl/src/dma_fifo.v
+../rtl/src/dma_reg.v
+../rtl/src/dma_slice.v
+../rtl/src/dma_top.v
+../tb/axi_ram.v
+../tb/tb_top.v

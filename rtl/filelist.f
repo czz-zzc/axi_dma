@@ -1,0 +1,10 @@
+../src/apb2reg_if.v
+../src/dam_filelist.f
+../src/dam_fsm.v
+../src/dma_axi2fifo.v
+../src/dma_core.v
+../src/dma_csr.v
+../src/dma_fifo.v
+../src/dma_reg.v
+../src/dma_slice.v
+../src/dma_top.v
