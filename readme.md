@@ -6,8 +6,7 @@ This project is an AXI-based DMA (Direct Memory Access) controller, supporting m
 ```
 bin/         # Utility scripts (register code auto-generation)
 doc/         # Design documents, architecture diagrams, register tables, etc.
-rtl/
-  src/       # Main RTL source code (Verilog)
+rtl/src/     # Main RTL source code (Verilog)
 tb/          # Testbench and simulation cases
 verif/       # Simulation scripts, Makefile, etc.
 ```
