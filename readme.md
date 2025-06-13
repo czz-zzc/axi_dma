@@ -57,4 +57,7 @@ make sim
 
 - A SystemVerilog-compatible simulator (Synopsys VCS)
 - Python 3 (for register code generation)
-````
+  
+## Reference
+- AXI-DMA: https://github.com/aignacio/axi_dma.git
+- AXI RAM: https://github.com/alexforencich/verilog-axi/blob/master/rtl/axi_ram.v
